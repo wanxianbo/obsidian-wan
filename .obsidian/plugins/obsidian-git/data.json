@@ -2,7 +2,7 @@
   "commitMessage": "备份笔记: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
-  "autoPushInterval": 2,
+  "autoPushInterval": 5,
   "autoPullInterval": 10,
   "autoPullOnBoot": true,
   "disablePush": false,
