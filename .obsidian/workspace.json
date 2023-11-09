@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e174993d86fe5e4",
+        "id": "f3665db0213d54ec",
         "type": "tabs",
         "children": [
           {
-            "id": "6372a70d7c8d9209",
+            "id": "b95171bdced70394",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mycat分布式架构.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mycat分布式架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mycat分布式架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mycat分布式架构.md"
+              }
             }
           }
         ]
@@ -138,45 +146,50 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "16077f3264ee7a43",
+  "active": "b95171bdced70394",
   "lastOpenFiles": [
-    "Spring/spring boot 集成seata简单demo.md",
-    "Spring/Spring Bean的生命周期.md",
-    "Spring/spring-boot加载自定义的配置文件.md",
+    "Linux科学上网.md",
+    "JVM指令手册.pdf",
     "Spring/SpringEvent 的使用.md",
-    "Spring/Spring Boot的 @Value 和@ConfigurationProperties 的 使用.md",
     "Spring/SpringBoot处理全局同意异常.md",
+    "README.md",
+    "Spring/spring的配置解析.md",
+    "Spring/Spring Boot的 @Value 和@ConfigurationProperties 的 使用.md",
+    "MySQL/Oracle学习笔记：窗口函数.md",
+    "MySQL/MySQL慢日志概念.md",
+    "MySQL/MySQL的计算经纬度两点之间的距离.md",
+    "MySQL/MySQL order by与limit混用陷阱.md",
+    "MySQL/MySQL JSON 特性.md",
+    "MySQL/MySQL 8：[递归].md",
+    "Spring/spring boot 集成seata简单demo.md",
+    "Spring/Spring 自带的观察者模式.md",
+    "Spring/Spring Bean的生命周期.md",
+    "maven 常见命令 学习笔记（一）之 -pl -am -amd.md",
+    "spring5mvc第一天【大纲笔记】.pdf",
+    "select for update 的使用详解.md",
+    "Java并发编程/Java 并发编程：CountDownLatch，CyclicBarrier和信号量Semaphore.md",
+    "未命名.canvas",
     "Spring/Spring Boot 中 Cache 缓存的使用.md",
+    "未命名.md",
+    "ReentrantLock.md",
+    "Java的@SuppressWarnings.md",
+    "MySQL/MySQL用到的函数.md",
+    "MySQL/Mysql 的 四大排名函数解析.md",
+    "Java并发编程/Java并发编程：volatile关键字解析.md",
+    "raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/09/202109221607237.jpeg.md",
+    "raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/09",
+    "raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021",
+    "raw.githubusercontent.com/wanxianbo/pic-bed/main/img",
+    "raw.githubusercontent.com/wanxianbo/pic-bed/main",
+    "raw.githubusercontent.com/wanxianbo/pic-bed",
+    "raw.githubusercontent.com/wanxianbo",
+    "raw.githubusercontent.com",
     "Spring/images/F7C76EF6E55F4436B845587DF435118Aclipboard.png",
     "Spring/images/CCC16DA66670498CB35E1FAF74F9CD9Eclipboard.png",
     "Spring/images/960D75D188B24DA280D9B2477E227AC9clipboard.png",
     "Spring/images/719FC12675FB48319164F4B48A31D408clipboard.png",
     "Spring/images/2E09EE2F7E8D42399C4E0C77E47CA6F4clipboard.png",
     "Spring/images/22FCE69D3FFD4528A5B16A0982D793E2clipboard.png",
-    "Spring/images",
-    "Spring/spring的配置解析.md",
-    "Spring/Spring Boot 实现请求参数与响应参数加解密.md",
-    "Spring/Spring 自带的观察者模式.md",
-    "MySQL/Mysql 的 四大排名函数解析.md",
-    "MySQL/MySQL 8：[递归].md",
-    "MySQL/MySQL order by与limit混用陷阱.md",
-    "MySQL/MySQL用到的函数.md",
-    "MySQL/Oracle学习笔记：窗口函数.md",
-    "MySQL/MySQL的计算经纬度两点之间的距离.md",
-    "MySQL/MySQL JSON 特性.md",
-    "MySQL/MySQL慢日志概念.md",
-    "Java并发编程/Java 并发编程：CountDownLatch，CyclicBarrier和信号量Semaphore.md",
-    "Java并发编程/Java并发编程：volatile关键字解析.md",
-    "xxl-job-admin 的构建（docker）.md",
-    "vim 快捷键.md",
-    "spring5mvc第一天【大纲笔记】.pdf",
-    "Spring",
-    "select for update 的使用详解.md",
-    "ReentrantLock.md",
-    "Redis在项目里的应用.md",
-    "redis安装配置.md",
-    "MySQL",
-    "JVM指令手册.pdf",
-    "Java并发编程"
+    "Spring/images"
   ]
 }

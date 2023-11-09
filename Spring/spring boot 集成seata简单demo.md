@@ -279,7 +279,7 @@ CREATE TABLE `undo_log` (
 
 4. 业务代码支持
 
-![image-20210701170617326](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/07/20210701170619.png)
+![image-20210701170617326](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/07/20210701170619.png)
 
-![image-20210701170635818](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/07/20210701170636.png)
+![image-20210701170635818](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/07/20210701170636.png)
 

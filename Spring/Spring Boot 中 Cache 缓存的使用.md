@@ -20,7 +20,7 @@ Java Caching定义了5个核心接口，分别是CachingProvider, CacheManager, 
 
 
 
-![示意图](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/01/20210120093914.png)
+![示意图](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/01/20210120093914.png)
 
 
 
@@ -76,17 +76,17 @@ Spring从3.1开始定义了org.springframework.cache.Cache 和org.springframewor
 
 1.如果需要分析自动配置的原理就需要分析自动配置类:CacheAutoConfiguration：
 
-![image-20210120094836700](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/01/20210120094838.png)
+![image-20210120094836700](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/01/20210120094838.png)
 
 2.这个自动配置中导入了一个类CacheConfigurationImportSelector，这个类会引入一些缓存配置类。
 
-![image-20210122161234696](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/01/20210122161243.png)
+![image-20210122161234696](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/01/20210122161243.png)
 
 3.在配置文件中设置属性debug=true，这样就会打印所有的配置报告。
 
 4.通过打印日志可以看出SimpleCacheConfiguration配置类默认生效。这个配置类给容器中注册了一个CacheManager。
 
-![image-20210122161700939](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/01/20210122161702.png)
+![image-20210122161700939](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/01/20210122161702.png)
 
 5.缓存方法运行之前，先按照cacheNames查询缓存组件，第一次获取缓存如果没有缓存创建一个。
 

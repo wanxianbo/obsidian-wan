@@ -4,9 +4,9 @@ Spring Bean的生命周期
 
 Spring Bean的完整生命周期从创建Spring容器开始，直到最终Spring容器销毁Bean，这其中包含了一系列关键点。
 
-![image-20210707104212980](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/07/20210707104220.png)
+![image-20210707104212980](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/07/20210707104220.png)
 
-![image-20210707104630470](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/07/20210707104631.png)
+![image-20210707104630470](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/07/20210707104631.png)
 
 
 

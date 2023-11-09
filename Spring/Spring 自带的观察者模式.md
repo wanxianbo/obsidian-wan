@@ -10,7 +10,7 @@
 
 在我们日常业务开发中，观察者模式对我们很大的一个作用，在于实现业务的**解耦**。以用户注册的场景来举例子，假设在用户注册完成时，需要给该用户发送邮件、发送优惠劵等等操作，如下图所示：
 
-![](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/04/20210409155117.jpg)
+![](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/04/20210409155117.jpg)
 
 - UserService 在完成自身的用户注册逻辑之后，仅仅只需要发布一个 UserRegisterEvent 事件，而无需关注其它拓展逻辑。
 - 其它 Service 可以**自己**订阅 UserRegisterEvent 事件，实现自定义的拓展逻辑。
@@ -19,7 +19,7 @@
 >
 > 简单来说，发布订阅模式属于**广义上**的观察者模式，在观察者模式的 Subject 和 Observer 的基础上，引入 Event Channel 这个**中介**，进一步解耦。如下图所示：
 
-![](https://gitee.com/wanxianbo/pic-bed/raw/master/img/2021/04/20210409155240.jpg)
+![](https://raw.githubusercontent.comwanxianbo/pic-bed/main/img/2021/04/20210409155240.jpg)
 
 ## 2.Spring 事件机制
 
