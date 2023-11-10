@@ -19,7 +19,7 @@
 >
 > 简单来说，发布订阅模式属于**广义上**的观察者模式，在观察者模式的 Subject 和 Observer 的基础上，引入 Event Channel 这个**中介**，进一步解耦。如下图所示：
 
-![](https://raw.githubusercontent.comwanxianbo/pic-bed/main/img/2021/04/20210409155240.jpg)
+![](https://raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/04/20210409155240.jpg)
 
 ## 2.Spring 事件机制
 

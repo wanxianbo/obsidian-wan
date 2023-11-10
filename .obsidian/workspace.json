@@ -15,7 +15,7 @@
               "state": {
                 "file": "实录/2023/2023-11-10.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "b95171bdced70394",
   "lastOpenFiles": [
-    "Mycat分布式架构.md",
     "Spring/spring boot 集成seata简单demo.md",
+    "Spring/Spring Bean的生命周期.md",
+    "Spring/Spring 自带的观察者模式.md",
     "实录/2023/2023-11-10.md",
+    "Mycat分布式架构.md",
     "实录/2023",
     "实录",
     "Linux科学上网.md",
@@ -166,8 +168,6 @@
     "MySQL/MySQL order by与limit混用陷阱.md",
     "MySQL/MySQL JSON 特性.md",
     "MySQL/MySQL 8：[递归].md",
-    "Spring/Spring 自带的观察者模式.md",
-    "Spring/Spring Bean的生命周期.md",
     "maven 常见命令 学习笔记（一）之 -pl -am -amd.md",
     "spring5mvc第一天【大纲笔记】.pdf",
     "select for update 的使用详解.md",
