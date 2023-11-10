@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b95171bdced70394",
+  "active": "16077f3264ee7a43",
   "lastOpenFiles": [
+    "实录/2023",
+    "实录",
     "Linux科学上网.md",
     "JVM指令手册.pdf",
     "Spring/SpringEvent 的使用.md",
@@ -176,7 +178,6 @@
     "MySQL/MySQL用到的函数.md",
     "MySQL/Mysql 的 四大排名函数解析.md",
     "Java并发编程/Java并发编程：volatile关键字解析.md",
-    "raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/09/202109221607237.jpeg.md",
     "raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021/09",
     "raw.githubusercontent.com/wanxianbo/pic-bed/main/img/2021",
     "raw.githubusercontent.com/wanxianbo/pic-bed/main/img",
@@ -189,7 +190,6 @@
     "Spring/images/960D75D188B24DA280D9B2477E227AC9clipboard.png",
     "Spring/images/719FC12675FB48319164F4B48A31D408clipboard.png",
     "Spring/images/2E09EE2F7E8D42399C4E0C77E47CA6F4clipboard.png",
-    "Spring/images/22FCE69D3FFD4528A5B16A0982D793E2clipboard.png",
-    "Spring/images"
+    "Spring/images/22FCE69D3FFD4528A5B16A0982D793E2clipboard.png"
   ]
 }
